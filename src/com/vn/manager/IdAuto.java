@@ -1,4 +1,4 @@
-package manager;
+package com.vn.manager;
 
 	public class IdAuto {
 		public static void main(String[] args) {
